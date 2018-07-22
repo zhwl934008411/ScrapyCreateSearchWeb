@@ -19,7 +19,8 @@ except:
     print("cookie 未能加载")
 
 # 伪造header
-agent = "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+
+agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.68 Safari/537.36"
 header = {
     "HOST": "www.zhihu.com",
     "Referer": "https://www.zhihu.com",

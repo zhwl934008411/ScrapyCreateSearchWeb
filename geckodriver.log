@@ -147,3 +147,33 @@ Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrp
 1532025380494	Marionette	INFO	Listening on port 11070
 1532025380811	Marionette	WARN	TLS certificate errors will be ignored for this session
 Invalid port. Exiting...
+1532176460630	geckodriver	INFO	geckodriver 0.21.0
+1532176460641	geckodriver	INFO	Listening on 127.0.0.1:14797
+1532176463684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\a9340\\AppData\\Local\\Temp\\rust_mozprofile.l8lA72PWdYe3"
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+fatal runtime error: allocator memory exhausted
+1532176495960	geckodriver	INFO	geckodriver 0.21.0
+1532176495976	geckodriver	INFO	Listening on 127.0.0.1:14839
+1532176498975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\a9340\\AppData\\Local\\Temp\\rust_mozprofile.C4ZDjg5KmfgQ"
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+out of memory: 0x0000000000000448 bytes requested
+out of memory: 0x0000000000000800 bytes requested
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1532176520041	geckodriver	INFO	geckodriver 0.21.0
+1532176520056	geckodriver	INFO	Listening on 127.0.0.1:14864
+1532176523055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\a9340\\AppData\\Local\\Temp\\rust_mozprofile.KO1XaryEn4vv"
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\a9340\AppData\Local\openvr\openvrpaths.vrpath
+1532176525645	Marionette	INFO	Listening on port 14872
+1532176525802	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
